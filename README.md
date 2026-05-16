@@ -45,3 +45,6 @@ it is simply fun, and has a huge portential to evolve the way our systems/robots
 
 idk what you guys expect to see in thus page, so hmm, this is what i wanted to put in here, refer to my website/linkedin for more info.
 oh also im open to collaborations, debates, etc... only related to the topics mentioned above tho... or maybe something related to those too.
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b5845174-0194-4f31-bd1b-107603fbeb14" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+saw these badges a few times and got curious.
