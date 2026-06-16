@@ -24,13 +24,7 @@ i want to have a humanoid assistant some day and i want to spend my time moving 
 i love rl a LOT.
 i see huge huge potential in it for building toward autonomous robotic systems, and right now i see it as one of the clearest paths there.
 
-anime is my lifeblood at this point. :)
-
----
-
-## why rl
-
-it is simply fun, and has a huge portential to evolve the way our systems/robots work... this one is going the change the world for good. the possibilities are huge, not gonna try to explain those, cause its pretty much iykyk. study rl.
+i love anime. :)
 
 ---
 
