@@ -28,15 +28,6 @@ i love anime. :)
 
 ---
 
-
-<p align="center">
-  <img width="1300" height="1234" alt="yuri" src="https://github.com/user-attachments/assets/5bc95c9f-a108-4ed1-812e-b753fcb5c97a" />
-</p>
-
-<h2 align="center">
-  <sub>not gonna lie, this image is so good</sub>
-</h2>
-
 idk what you guys expect to see in thus page, so hmm, this is what i wanted to put in here, refer to my website/linkedin for more info.
 oh also im open to collaborations, debates, etc... only related to the topics mentioned above tho... or maybe something related to those too.
 
