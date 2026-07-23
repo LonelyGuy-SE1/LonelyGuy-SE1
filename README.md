@@ -36,3 +36,5 @@ oh also im open to collaborations, debates, etc... only related to the topics me
 </a>
 
 saw these badges a few times and got curious.
+
+ok, arch linux is fun, i accept it, i ditched ubuntu on all my pcs'
