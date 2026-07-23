@@ -37,4 +37,4 @@ oh also im open to collaborations, debates, etc... only related to the topics me
 
 saw these badges a few times and got curious.
 
-ok, arch linux is fun, i accept it, i ditched ubuntu on all my pcs'
+ok, arch is fun, i accept it, i ditched ubuntu on all my pcs', so i guess, "i use arch btw"
