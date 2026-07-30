@@ -15,21 +15,22 @@
 ---
 
 im a cs undergrad.
-im interested in embodied ai, with rl as the main thing pulling me in, autonomous robotics, decentralized systems, and pretty much any topic that touches those.
+im interested in embodied ai, with rl as a focus, autonomous robotics, decentralized systems, and pretty much any topic that touches those.
 
 there is only one goal that i want to work toward:
 robotic brains that can actually be autonomous.
 
 i want to have a humanoid assistant some day and i want to spend my time moving in that direction.
-i love rl a LOT.
-i see huge huge potential in it for building toward autonomous robotic systems, and right now i see it as one of the clearest paths there.
+i see huge potential in rl for building toward autonomous robotic systems, and right now i see it as one of the clearest paths there.
+
+i have experience across a vast set of tools/concepts related to cs (from full stack web dev to extreme bare metal optimizations for robots and ai)
 
 i love anime. :)
 
 ---
 
-idk what you guys expect to see in thus page, so hmm, this is what i wanted to put in here, refer to my website/linkedin for more info.
-oh also im open to collaborations, debates, etc... only related to the topics mentioned above tho... or maybe something related to those too.
+idk what you guys expect to see in this page, so hmm, this is what i wanted to put in here, refer to my website/linkedin for more info.
+oh also im open to collaborations, debates, etc... only related to the topics mentioned above tho... or maybe something related to those too...
 
 <a href="https://www.credly.com/badges/b5845174-0194-4f31-bd1b-107603fbeb14/public_url">
    <img src="https://images.credly.com/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob" width="150" height="150" alt="Credly Badge">
@@ -38,3 +39,5 @@ oh also im open to collaborations, debates, etc... only related to the topics me
 saw these badges a few times and got curious.
 
 ok, arch is fun, i accept it, i ditched ubuntu on all my pcs', so i guess, "i use arch btw"
+
+
